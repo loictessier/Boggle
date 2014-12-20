@@ -1,8 +1,6 @@
 Boggle
 ======
 
-Boggle
-
 Description
 
 Cette application a été réalisée en travaux pratiques de deuxième année à 3iL
