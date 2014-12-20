@@ -11,7 +11,6 @@ Ce projet a été codé en java avec swing et se joue à la souris.
 
 ##Screenshots
 
-![screenshot](doc/capture_jeu1.PNG)
 
 This software has been written by:
 
