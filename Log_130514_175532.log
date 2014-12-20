@@ -1,0 +1,37 @@
+Log_130514_175532.log	14/05/13	17:55:32
+14/05/13	17:55:32	Création de la grille.
+14/05/13	17:55:34	Création du fichier du Dico Boggle. Durée : 1622Nombre mots dico 1 : 336531Nombre mots dico 2 : 315517
+14/05/13	17:55:35	Désérialisation du Dico Boggle. Durée : 733
+14/05/13	17:55:35	Désérialisation du fichier fichierScore.bin
+14/05/13	17:55:35	Lancement du chrono (timer.schedule).
+14/05/13	17:55:51	Mot validé.
+14/05/13	17:55:57	Mot validé.
+14/05/13	17:56:00	Mot validé.
+14/05/13	17:56:08	Mot validé.
+14/05/13	17:56:19	Mot validé.
+14/05/13	17:56:25	Mot validé.
+14/05/13	17:56:33	Mot validé.
+14/05/13	17:56:37	Mot validé.
+14/05/13	17:56:45	Mot validé.
+14/05/13	17:56:51	Mot validé.
+14/05/13	17:56:59	Mot validé.
+14/05/13	17:57:11	Mot validé.
+14/05/13	17:57:17	Mot validé.
+14/05/13	17:57:27	Mot validé.
+14/05/13	17:57:29	Mot validé.
+14/05/13	17:57:40	Sérialisation du fichier fichierScore.bin
+14/05/13	17:57:43	Partie terminée.
+14/05/13	17:57:48	Lancement d'une nouvelle partie.
+14/05/13	17:58:10	Mot validé.
+14/05/13	17:58:17	Mot validé.
+14/05/13	17:58:18	Mot validé.
+14/05/13	17:58:23	Mot validé.
+14/05/13	17:58:28	Mot validé.
+14/05/13	17:58:33	Mot validé.
+14/05/13	17:58:38	Mot validé.
+14/05/13	17:58:51	Mot validé.
+14/05/13	17:59:25	Mot validé.
+14/05/13	17:59:32	Mot validé.
+14/05/13	17:59:47	Mot validé.
+14/05/13	17:59:54	Sérialisation du fichier fichierScore.bin
+14/05/13	18:00:08	Partie terminée.
