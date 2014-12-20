@@ -13,5 +13,6 @@ Ce projet a été codé en java avec swing et se joue à la souris.
 
 This software has been written by:
 
-*Loïc TESSIER
+*Loïc TESSIER 
+
 *Vincent BRIOT
